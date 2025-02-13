@@ -23,7 +23,8 @@
 ## Команда git add <file>
 
 ## Команда  git restore --staged <file>
-# Команда 
+## Команда git commit -m "..."
+
 
 
 
